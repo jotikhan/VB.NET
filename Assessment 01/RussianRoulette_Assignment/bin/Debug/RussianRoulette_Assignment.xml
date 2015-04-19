@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RussianRoulette_Assignment
+</name>
+</assembly>
+<members>
+<member name="P:RussianRoulette_Assignment.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.appNameDGV">
+	<summary>
+  Looks up a localized string similar to Russian Roulette High Scores.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.appNameHowToPlay">
+	<summary>
+  Looks up a localized string similar to Playing Russian Roulette.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.background_beat_mix">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.cheering">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.Cowboy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.FlagRR">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.GameOverRR">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.GunBarrel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.GunBarrelRR">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.gunshot">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.Lejend_Russian_Roulette_front_large">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.power_on">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.Revolver">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.RussianRoulette">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.RussianRouletteRR">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.SurvivedRR">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.WinRR">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RussianRoulette_Assignment.My.Resources.Resources.You_lostRR">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:RussianRoulette_Assignment.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

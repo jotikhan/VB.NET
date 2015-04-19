@@ -1,0 +1,146 @@
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.pdb
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.xml
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.Resources.resources
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.GenerateResource.Cache
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.RussianRoulette.resources
+C:\Users\jk017\AppData\Local\Temporary Projects\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmDGV.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\RussianRoulette_Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.pdb
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.xml
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmDGV.resources
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.RussianRoulette.resources
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.Resources.resources
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.GenerateResource.Cache
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbprojResolveAssemblyReference.cache
+Z:\IT\users\joti\documents\visual studio 2013\Vision College\Assignment01\RussianRoulette_Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmMain.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.pdb
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.xml
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbprojResolveAssemblyReference.cache
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmDGV.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.RussianRoulette.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmMain.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.Resources.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.GenerateResource.Cache
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.pdb
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.xml
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbprojResolveAssemblyReference.cache
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmDGV.resources
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.RussianRoulette.resources
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmMain.resources
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.Resources.resources
+C:\Temp\Day 01\72Assignment\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.GenerateResource.Cache
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.pdb
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.xml
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbprojResolveAssemblyReference.cache
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmDGV.resources
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.RussianRoulette.resources
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmMain.resources
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.Resources.resources
+C:\Temp\Day 01\Version1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.GenerateResource.Cache
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbprojResolveAssemblyReference.cache
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmDGV.resources
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.RussianRoulette.resources
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmMain.resources
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.Resources.resources
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.GenerateResource.Cache
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.pdb
+C:\Temp\Day 01\Version1.1\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.xml
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbprojResolveAssemblyReference.cache
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmMain.resources
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmSplashScreen.resources
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.Resources.resources
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.GenerateResource.Cache
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.pdb
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.xml
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmGame.resources
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\bin\Debug\Interop.WMPLib.dll
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\Interop.WMPLib.dll
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.ResolveComReference.cache
+C:\Temp\Day 01\Version6\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmDataGridView.resources
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\Interop.WMPLib.dll
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\AxInterop.WMPLib.dll
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.ResolveComReference.cache
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.pdb
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.xml
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\bin\Debug\Interop.WMPLib.dll
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\bin\Debug\AxInterop.WMPLib.dll
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbprojResolveAssemblyReference.cache
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmDataGridView.resources
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmGame.resources
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmMain.resources
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmSplashScreen.resources
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.Resources.resources
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.GenerateResource.Cache
+C:\Temp\Day 01\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmHowToPlay.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.pdb
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.xml
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\bin\Debug\Interop.WMPLib.dll
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\bin\Debug\AxInterop.WMPLib.dll
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbprojResolveAssemblyReference.cache
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\Interop.WMPLib.dll
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\AxInterop.WMPLib.dll
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.ResolveComReference.cache
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmDataGridView.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmGame.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmHowToPlay.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmMain.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.frmSplashScreen.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.Resources.resources
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.GenerateResource.Cache
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+\\telmar\users\JK017\My Documents\Visual Studio 2013\Projects\zAssignment\Version7\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
+S:\Software\Joti Khan\Assignment01\RussianRoulette_Assignment\bin\Debug\RussianRoulette_Assignment.exe.config
+S:\Software\Joti Khan\Assignment01\RussianRoulette_Assignment\obj\Debug\Interop.WMPLib.dll
+S:\Software\Joti Khan\Assignment01\RussianRoulette_Assignment\obj\Debug\AxInterop.WMPLib.dll
+S:\Software\Joti Khan\Assignment01\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.vbproj.ResolveComReference.cache
+S:\Software\Joti Khan\Assignment01\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.exe
+S:\Software\Joti Khan\Assignment01\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.xml
+S:\Software\Joti Khan\Assignment01\RussianRoulette_Assignment\obj\Debug\RussianRoulette_Assignment.pdb
